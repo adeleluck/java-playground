@@ -6,7 +6,7 @@
 ![alt text](resources/bubble-sort.gif)
 
 Ниже приведена реализация алгоритма пузырьковой сортировки на Java: 
-
+```java
     public static void Sort(ArrayList<Integer> arr) {
         for (int i = 0; i < arr.size(); i++) {
             for (int j = 0; j < arr.size() - 1; j++) {
@@ -18,10 +18,10 @@
             }
         }
     }
+```
 
-
-И вызов функции с данным алгоритмом: 
-
+И вызов функции с реализацией данного алгоритма: 
+```java
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Введите длину массива:");
@@ -36,3 +36,4 @@
         BubbleSorter.Sort(array);
         System.out.println("Отсортированный массив: "+ array);
     }
+```
