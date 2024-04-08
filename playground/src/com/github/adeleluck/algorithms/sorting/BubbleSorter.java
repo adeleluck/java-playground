@@ -1,4 +1,4 @@
-package adeleluck.github.com.sorting;
+package com.github.adeleluck.algorithms.sorting;
 
 import java.util.ArrayList;
 

@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="431dbc29-4aec-419f-a812-90d25460996c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/github/adeleluck/algorithms/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docs/BubbleSort.md" beforeDir="false" afterPath="$PROJECT_DIR$/../docs/BubbleSort.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adeleluck/github/com/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/adeleluck/github/com/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adeleluck/github/com/sorting/BubbleSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/adeleluck/github/com/sorting/BubbleSorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/adeleluck/github/com/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/adeleluck/github/com/sorting/BubbleSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/github/adeleluck/algorithms/sorting/BubbleSorter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +46,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Workspace/java-playground/playground&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Workspace/JavaUnitTestDemo&quot;
   }
 }</component>
   <component name="SharedIndexes">
