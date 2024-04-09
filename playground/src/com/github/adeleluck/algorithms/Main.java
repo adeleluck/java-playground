@@ -37,7 +37,7 @@ public class Main {
             System.out.println("Отсортированный массив: " + array);
         }
 
-        public static void MethodBinarySearch () {
+        public static void MethodBinarySe"feat: Add BinarySearch algorithm implementation and docsrch () {
 
             System.out.println("Введите длину массива: ");
             int length = scan.nextInt();
