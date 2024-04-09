@@ -37,7 +37,7 @@ public class Main {
             System.out.println("Отсортированный массив: " + array);
         }
 
-        public static void MethodBinarySe"feat: Add BinarySearch algorithm implementation and docsrch () {
+        public static void MethodBinarySearch () {
 
             System.out.println("Введите длину массива: ");
             int length = scan.nextInt();
@@ -50,6 +50,10 @@ public class Main {
             int el = scan.nextInt();
             BubbleSorter.Sort(array);
             System.out.println("Отсортированный массив: " + array);
-            System.out.println("Это число находится под индексом: "+ BinarySearch.binarySearchRecursively(array, el));
+            if(BinarySearch.binarySearchRecursively(array, el) != -1) {
+                System.out.println("Это число находится под индексом: " + BinarySearch.binarySearchRecursively(array, el));
+            }else{
+                System.out.println("В массиве такого числа нет.");
+            }
         }
     }

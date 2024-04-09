@@ -31,8 +31,8 @@ public class BinarySearch {
                   if(el> arr.get(middle))
                      first = middle+1;
             }
-        return 0;
+        return -1;
 
-    }
+     }
 }
 
